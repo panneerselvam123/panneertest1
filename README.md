@@ -1,2 +1,2 @@
 # panneertest1
-testrepos
+testrepos s
